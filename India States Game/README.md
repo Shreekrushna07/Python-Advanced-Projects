@@ -18,7 +18,7 @@ This Python script creates a simple game to guess the names of states in India u
 3. Run the script:
 
    ```bash
-   python india_states_game.py
+   python main.py
    ```
 
 4. Guess the names of the states in India by typing them into the prompt. Type "Exit" or "exit" to save the remaining states and exit the game.
