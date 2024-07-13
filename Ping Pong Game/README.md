@@ -59,6 +59,7 @@ Manages the game score display.
 
 - `l_point()`: Increments the score for the left player.
 - `r_point()`: Increments the score for the right player.
+- `update_scoreboard()`: Update the Scoreboard.
 
 
 ## Acknowledgments
