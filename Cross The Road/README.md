@@ -41,4 +41,3 @@ This is a simple Turtle Crossing game implemented in Python using the `turtle` g
 
 - Thanks to the Python community for providing helpful resources and documentation.
 - Inspired by the classic Frogger game.
-```
